@@ -1,7 +1,4 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+//import image by doing: import project# from "../assets/projects/project-#.jpg";
 
 export const ABOUT_TEXT = `I’m a previous kinesiology major turned computer science student at SFU where I discovered a passion for technology and innovation. The blend of problem-solving and creativity excites me, as it allows me to transform ideas into functional and impactful code.
 
@@ -43,8 +40,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
   email: "yuivan2000@gmail.com",
   linkedin: "https://www.linkedin.com/in/ivannyuu",
   github: "https://github.com/ivannyuu",
