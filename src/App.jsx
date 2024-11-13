@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
+import Experience from "./components/Experience";
 import './index.css';
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
         <Navbar />
         <About />
         <Technologies />
+        <Experience />
       </div>
     </div>
   )

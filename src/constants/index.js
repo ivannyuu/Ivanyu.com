@@ -14,14 +14,14 @@ export const EXPERIENCES = [
     role: "Lead Kinesiologist",
     company: "CBI",
     location: "Vancouver, BC",
-    description: `Collaborated with multidisciplinary healthcare teams to create personalized treatment plans tailored to each client’s unique needs. Supported individuals with diverse abilities, including Autism, developmental disorders, and brain injuries.`,
+    description: `Collaborated with multidisciplinary healthcare teams to develop personalized treatment plans, supporting individuals with diverse abilities, including Autism, developmental disorders, and brain injuries, to achieve optimal outcomes.`,
   },
   {
     year: "2022 - 2023",
     role: "Laboratory Technician",
     company: "Nautilus Environmental",
     location: "Vancouver, BC",
-    description: `Problem-solved and troubleshot laboratory experiments, utilizing critical thinking and analytical skills to resolve issues and complete tasks on time.`,
+    description: `Performed environmental toxicological and microbiological tests to ensure regulatory compliance, while conducting applied research to address specific project needs, leveraging analytical skills to deliver accurate, actionable results.`,
   },
 ];
 
