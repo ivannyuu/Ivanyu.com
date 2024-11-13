@@ -1,9 +1,12 @@
 //import image by doing: import project# from "../assets/projects/project-#.jpg";
 
-export const ABOUT_TEXT = `I’m a previous kinesiology major turned computer science student at SFU where I discovered a passion for technology and innovation. The blend of problem-solving and creativity excites me, as it allows me to transform ideas into functional and impactful code.
+export const ABOUT_TEXT = `Hello and welcome to my website!
 
-I thrive in collaborative, cross-functional teams, working together to build efficient and user-friendly applications that make a real difference. I’m always eager to connect, share stories, and learn from others – so don’t hesitate to reach out!
-`;
+I’m Ivan, a 3rd-year Computer Science student at SFU. When I’m not in class, you’ll probably find me playing soccer or exploring Vancouver’s food scene in search of the best bites.
+
+This site is my little corner of the web where I’ll be sharing updates, showcasing projects, and jotting down random thoughts. Feel free to look around and get to know me!
+
+If something here sparks your interest and you’d like to chat, my socials are linked at the top—don’t hesitate to reach out! I’m always up for a coffee chat. ☕`;
 
 export const EXPERIENCES = [
   {
@@ -25,14 +28,14 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "PAIN2GO",
-    image: project1,
+    //image:
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "Javascript"],
   },
   {
     title: "Portfolio Website",
-    image: project3,
+    //image:
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
