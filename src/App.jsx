@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import About from "./components/About";
+import Technologies from "./components/Technologies";
 import './index.css';
 
 const App = () => {
@@ -12,6 +13,7 @@ const App = () => {
       <div className="container mx-auto px-8">
         <Navbar />
         <About />
+        <Technologies />
       </div>
     </div>
   )
