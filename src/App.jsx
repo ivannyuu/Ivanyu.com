@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
+import Project from "./components/Project";
 import './index.css';
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
         <About />
         <Technologies />
         <Experience />
+        <Project />
       </div>
     </div>
   )

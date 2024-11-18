@@ -1,6 +1,7 @@
 //import image by doing: import project# from "../assets/projects/project-#.jpg"
 import experience1 from "../assets/experiences/experience1.png";
 import experience2 from "../assets/experiences/experience2.png";
+import project1 from "../assets/projects/project1.png";
 
 export const ABOUT_TEXT = `Hello and welcome to my website!
 
@@ -32,7 +33,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "PAIN2GO",
-    //image:
+    image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "Javascript"],
