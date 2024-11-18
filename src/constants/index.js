@@ -1,4 +1,6 @@
-//import image by doing: import project# from "../assets/projects/project-#.jpg";
+//import image by doing: import project# from "../assets/projects/project-#.jpg"
+import experience1 from "../assets/experiences/experience1.png";
+import experience2 from "../assets/experiences/experience2.png";
 
 export const ABOUT_TEXT = `Hello and welcome to my website!
 
@@ -14,6 +16,7 @@ export const EXPERIENCES = [
     role: "Lead Kinesiologist",
     company: "CBI",
     location: "Vancouver, BC",
+    image: experience1,
     description: `Collaborated with multidisciplinary healthcare teams to develop personalized treatment plans, supporting individuals with diverse abilities, including Autism, developmental disorders, and brain injuries, to achieve optimal outcomes.`,
   },
   {
@@ -21,6 +24,7 @@ export const EXPERIENCES = [
     role: "Laboratory Technician",
     company: "Nautilus Environmental",
     location: "Vancouver, BC",
+    image: experience2,
     description: `Performed environmental toxicological and microbiological tests to ensure regulatory compliance, while conducting applied research to address specific project needs, leveraging analytical skills to deliver accurate, actionable results.`,
   },
 ];
